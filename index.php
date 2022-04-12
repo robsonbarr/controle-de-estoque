@@ -18,8 +18,7 @@
 			<li><a id="mostra-form" href="#" title="adicionar novo produto"> <i class="fa fa-plus"></i> novo produto</a></li>
 			<li><a href="#" title="listar produtos"><i class="fa fa-newspaper-o" aria-hidden="true"></i> listar produtos</a></li>
 			<li><a href="#"><i class="fa fa-barcode" aria-hidden="true"> </i> ler codigo de barra</li></a></li>
-			
-			<li>listar de produtos</li>
+		
 			<li>imprimir nota fiscal</li>
 			<li>criar boleto bancário</li>
 
