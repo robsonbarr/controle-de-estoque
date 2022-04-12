@@ -20,7 +20,7 @@
 			<li><a href="#"><i class="fa fa-barcode" aria-hidden="true"> </i> ler codigo de barra</li></a></li>
 		
 			<li>imprimir nota fiscal</li>
-			<li>criar boleto bancário</li>
+			<li><a href="#">criar boleto bancário</a></li>
 
 		</ul>
 
