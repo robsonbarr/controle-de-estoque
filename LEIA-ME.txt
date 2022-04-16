@@ -1,0 +1,15 @@
+    Inicio com propósito de um controle de estoque para adicionar ao sistema que sera raiz no futuro.
+
+
+estou oranizando ele com intensividade de tornar um sistema maior com varias maneiras de solucionar problemas de usuarios
+*precisa-se inserir funçoes para facilitar usuario e da preferencia em armazenar os dados do cliente com seguraça.
+
+*esse sistema também pode solucionar problemas com pessoas que perdem a conexão com a internet.
+*todos os bancos de dados devem ser disponibilizados a esse projeto.
+*os progamadores que ajudarem serão tabmé retribuidos com meu profissional.
+
+
+PROJETO COM RAIZ DE MERCADO PARA GRANDES COMÉRCIOS COM INTENSIVIDADE DE DEIXA A DISPOSICÃO DE CLIENTES COM OU SEM
+
+
+INTERNET.       BANCOS DE DADOS EM SEGURANÇA É A PARTE PRINCIPAL  A SER CONSIDERADA
