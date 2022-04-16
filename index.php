@@ -16,14 +16,15 @@
 		</ul>
 		<ul>
 			<li><a href="#" id="link-home"><i class="fa fa-home"></i></a></li>
+			<li><input type="search" name="busca" placeholder="  ⌕ buscar produtos"></li>
 		</ul>
 	<ul>
-		<li><a id="mostra-form" href="#" title="adicionar novo produto"> <i class="fa fa-plus"></i> novo produto</a></li>
+		<li><a id="green" href="#" title="adicionar novo produto" > <i class="fa fa-plus"></i> novo produto</a></li>
 			<li><a href="#" title="listar produtos"><i class="fa fa-newspaper-o" aria-hidden="true"></i> listar produtos</a></li>
 			<li><a href="#"><i class="fa fa-barcode" aria-hidden="true"> </i> ler codigo de barras</li></a></li>
-		<li><input type="text" name="busca" placeholder="  ⌕ buscar produtos"></li>
-			<li>imprimir nota fiscal</li>
-			<li><a href="#">criar boleto bancário</a></li>
+	
+			<li><a href="#">Notafiscal</a></li>
+		
 
 	</ul>
 

@@ -26,6 +26,17 @@ html,body{
 .header-bg ul li{
 	color: white;
 	padding: 10px;
+	padding-top: 30px;
+
+}
+
+a{
+	font-size: 19px;
+	color: white;
+	
+}
+#green{
+	color: #03fc2c;
 }
 li h1{
 	color: white;
