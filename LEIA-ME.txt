@@ -1,15 +1,35 @@
-    Inicio com propósito de um controle de estoque para adicionar ao sistema que sera raiz no futuro.
+   
 
 
-estou oranizando ele com intensividade de tornar um sistema maior com varias maneiras de solucionar problemas de usuarios
-*precisa-se inserir funçoes para facilitar usuario e da preferencia em armazenar os dados do cliente com seguraça.
+
 
 *esse sistema também pode solucionar problemas com pessoas que perdem a conexão com a internet.
 *todos os bancos de dados devem ser disponibilizados a esse projeto.
 *os progamadores que ajudarem serão tabmé retribuidos com meu profissional.
 
 
-PROJETO COM RAIZ DE MERCADO PARA GRANDES COMÉRCIOS COM INTENSIVIDADE DE DEIXA A DISPOSICÃO DE CLIENTES COM OU SEM
 
 
-INTERNET.       BANCOS DE DADOS EM SEGURANÇA É A PARTE PRINCIPAL  A SER CONSIDERADA
+                             SISTEMA DE CONTROLE DE ESTOQUE EM PHP OO
+
+
+
+OBJETIVO:
+
+Criar um sistema baseado em php para gestão de vendas de produtos de loja
+
+
+
+COMPORTAMENTO DO SISTEMA:
+
+
+          1° O Sistema deverá receber dados referentes ao produto ($nome, representante comercial, fabricante, 
+          quantidades de itens valor da compra, valor da venda, data de fabricação , data de validade(se houver).
+  
+
+          2° Deverá permitir que o usuário cadastren delete ou edite itens, porem se houver a venda de um item 
+          este não poderá ser excluidos mas terá que ser removidos da listra de estoque.
+
+          3° serão limitados uso de pessoas que só teramacesso de cadastrados ADM, empresas e pessoas cadastradas.
+
+          4° deverá salvar a nota fiscal da compra; "receita federal".
