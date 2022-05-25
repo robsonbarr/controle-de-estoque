@@ -32,4 +32,4 @@ COMPORTAMENTO DO SISTEMA:
 
           3° serão limitados uso de pessoas que só teramacesso de cadastrados ADM, empresas e pessoas cadastradas.
 
-          4° deverá salvar a nota fiscal da compra; "receita federal".
+          4° deverá salvar a nota fiscal da compra;pra evitar problemas com a  "receita federal".
